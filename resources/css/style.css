@@ -26,11 +26,26 @@ h3 {
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
+}
+
+.background {
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+.left {
+  text-align: left;
+  font-size: 11px;
+}
+
+.purple {
+  color: white;
+  background-color: dimgray;
+}
+
+.white {
   color: white;
 }
 
-
-
-.background {
-  background-image: url(resources/images/the-flatiron-building.png);
+.bottomlinks {
+  font-size: 11px;
 }
