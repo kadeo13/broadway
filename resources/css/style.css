@@ -1,3 +1,7 @@
+body {
+  text-align: center;
+}
+
 h1 {
   color: white;
   font-family: Helvetica;
@@ -22,10 +26,11 @@ h3 {
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
+  color: white;
 }
 
 
 
 .background {
-  background-image: url(/Web/images/the-flatiron-building.png);
+  background-image: url(resources/images/the-flatiron-building.png);
 }
